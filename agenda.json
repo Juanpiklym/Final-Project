@@ -1,0 +1,38 @@
+[
+    {
+        "N": 1,
+        "First Name": "Juan",
+        "Last Name": "Martin",
+        "Phone Number": "1234"
+    },
+    {
+        "N": 2,
+        "First Name": "John",
+        "Last Name": "Cenna",
+        "Phone Number": "123456"
+    },
+    {
+        "N": 3,
+        "First Name": "Anna",
+        "Last Name": "Maria",
+        "Phone Number": "098723"
+    },
+    {
+        "N": 4,
+        "First Name": "Elisa",
+        "Last Name": "Braun",
+        "Phone Number": "54432"
+    },
+    {
+        "N": 5,
+        "First Name": "Nina",
+        "Last Name": "Star",
+        "Phone Number": "4423232"
+    },
+    {
+        "N": 6,
+        "First Name": "Lalo",
+        "Last Name": "Manez",
+        "Phone Number": "6420874"
+    }
+]
